@@ -1,7 +1,7 @@
 # ENTRA FINAL
 IA para la Diversificación y Optimización de Ventas en un Emprendimiento de Moda Estacional
 Resumen
-Este proyecto desarrolla una solución integral basada en IA para resolver la fuerte estacionalidad de ventas del emprendimiento de bikinis “Chicas Chic”, cuyo período de baja demanda se extiende durante 8–9 meses del año. Utilizando modelos de IA generativa—tanto texto‑texto como texto‑imagen—se diseñó y validó una nueva línea de negocio: ACTIVEWEAR & BEACHWEAR TODO EL AÑO, orientada a mujeres jóvenes con un estilo activo y digital.
+Este proyecto desarrolla una solución integral basada en IA para resolver la fuerte estacionalidad de ventas del emprendimiento de bikinis “Chicas Chic”, cuyo período de baja demanda se extiende durante 8–9 meses del año. Utilizando modelos de IA generativa, tanto texto‑texto como texto‑imagen—se diseñó y validó una nueva línea de negocio: ACTIVEWEAR & BEACHWEAR TODO EL AÑO, orientada a mujeres jóvenes con un estilo activo y digital.
 La IA permitió analizar el mercado, idear productos, crear contenido visual, escribir copys efectivos y automatizar respuestas comerciales. La solución reduce costos operativos, acelera la validación de nuevas ideas y habilita un modelo escalable para otros emprendimientos de moda.
 1. Introducción
 
