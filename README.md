@@ -1,4 +1,4 @@
-# SegundaentregaIA
+# ENTRA FINAL
 1. Introducción
 
 Nombre del Proyecto
